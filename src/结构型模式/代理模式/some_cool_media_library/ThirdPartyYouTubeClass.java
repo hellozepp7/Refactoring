@@ -1,4 +1,4 @@
-package 结构性模式.代理模式.some_cool_media_library;
+package 结构型模式.代理模式.some_cool_media_library;
 
 import java.util.HashMap;
 

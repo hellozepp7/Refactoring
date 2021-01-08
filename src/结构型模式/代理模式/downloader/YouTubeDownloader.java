@@ -1,7 +1,7 @@
-package 结构性模式.代理模式.downloader;
+package 结构型模式.代理模式.downloader;
 
-import 结构性模式.代理模式.some_cool_media_library.ThirdPartyYouTubeLib;
-import 结构性模式.代理模式.some_cool_media_library.Video;
+import 结构型模式.代理模式.some_cool_media_library.ThirdPartyYouTubeLib;
+import 结构型模式.代理模式.some_cool_media_library.Video;
 
 import java.util.HashMap;
 

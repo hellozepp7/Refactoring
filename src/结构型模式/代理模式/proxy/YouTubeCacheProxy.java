@@ -1,8 +1,8 @@
-package 结构性模式.代理模式.proxy;
+package 结构型模式.代理模式.proxy;
 
-import 结构性模式.代理模式.some_cool_media_library.ThirdPartyYouTubeClass;
-import 结构性模式.代理模式.some_cool_media_library.ThirdPartyYouTubeLib;
-import 结构性模式.代理模式.some_cool_media_library.Video;
+import 结构型模式.代理模式.some_cool_media_library.ThirdPartyYouTubeClass;
+import 结构型模式.代理模式.some_cool_media_library.ThirdPartyYouTubeLib;
+import 结构型模式.代理模式.some_cool_media_library.Video;
 
 import java.util.HashMap;
 

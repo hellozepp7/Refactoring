@@ -1,8 +1,8 @@
-package 结构性模式.代理模式;
+package 结构型模式.代理模式;
 
-import 结构性模式.代理模式.downloader.YouTubeDownloader;
-import 结构性模式.代理模式.proxy.YouTubeCacheProxy;
-import 结构性模式.代理模式.some_cool_media_library.ThirdPartyYouTubeClass;
+import 结构型模式.代理模式.downloader.YouTubeDownloader;
+import 结构型模式.代理模式.proxy.YouTubeCacheProxy;
+import 结构型模式.代理模式.some_cool_media_library.ThirdPartyYouTubeClass;
 
 /**
  * <pre>
@@ -17,7 +17,7 @@ import 结构性模式.代理模式.some_cool_media_library.ThirdPartyYouTubeCla
 public class Demo {
 
     public static void main(String[] args) {
-        
+
         //原下载器下载
         YouTubeDownloader naiveDownloader = new YouTubeDownloader(new ThirdPartyYouTubeClass());
         //缓存代理类下载
